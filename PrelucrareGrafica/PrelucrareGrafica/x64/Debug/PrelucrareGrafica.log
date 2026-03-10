@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mrpuf\source\repos\PrelucrareGrafica\PrelucrareGrafica\main.cpp(279,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PrelucrareGrafica.vcxproj -> C:\Users\mrpuf\source\repos\PrelucrareGrafica\x64\Debug\PrelucrareGrafica.exe
